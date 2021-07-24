@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://www.pics.tokyo/manage/wp-content/uploads/2020/05/0723_milet_us_MV-1.jpeg);
+    background-size: cover;
+    color: #fbfdff;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.class1 {
+    width: 400px;
+    height: 300px;
+}
+
+.class2 {
+    width: 400px;
+    height: 300px;
+}
+
+a {
+    color: #fbfdff
+}
